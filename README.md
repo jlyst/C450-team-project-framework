@@ -2,6 +2,9 @@
 
 **What this project is:** In this System Design project, your team designs a small product through a set of documents — the business case, specification, style guide, data and API design, plan, and tasks. **The documents are what you're graded on.** You'll build the product twice with an AI agent, one task at a time — first to find gaps in your documents, then to show your design works — but the builds exist to test your design, not to be production software. Your documents are also the handoff to System Implementation, where you can continue the project with a real backend.
 
+#### Visual Overview
+![](project-overview.png)
+
 ## Roles
 
 | Role | Owns | Also |
